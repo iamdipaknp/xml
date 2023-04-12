@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\user\Desktop\xslt.xsl"?>
+<catalog>
+  <cd>
+    <title>1999 Grammy Nominees</title>
+    <artist>Many</artist>
+    <country>USA</country>
+    <company>Grammy</company>
+    <price>10.20</price>
+    <year>1999</year>
+  </cd>
+  <cd>
+    <title>For the good times</title>
+    <artist>Kenny Rogers</artist>
+    <country>UK</country>
+    <company>Mucik Master</company>
+    <price>8.70</price>
+    <year>1995</year>
+  </cd>
+  <cd>
+    <title>The very best of</title>
+    <artist>Cat Stevens</artist>
+    <country>UK</country>
+    <company>Island</company>
+    <price>8.90</price>
+    <year>1990</year>
+  </cd>
+</catalog>
